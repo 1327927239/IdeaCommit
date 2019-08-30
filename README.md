@@ -1,2 +1,0 @@
-# IdeaCommit
-IdeaCommit
